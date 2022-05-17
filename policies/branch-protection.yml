@@ -8,5 +8,5 @@ where:
 configuration:
   branchProtectionRules:
     - branchNamePattern: "main"
-      requiredApprovingReviewsCount: 2
+      requiredApprovingReviewsCount: 3
       dismissStaleReviews: true
