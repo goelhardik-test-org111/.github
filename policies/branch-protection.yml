@@ -3,7 +3,7 @@ name: branch_protection
 description: Default branch protection policy
 
 resource: repository
-where: 
+where: test
 
 configuration:
   branchProtectionRules:
